@@ -1,8 +1,8 @@
 # Configurations
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+author:           Hyolim Lee
+email:            lora3226@naver.com
 description: >
   Build Jekyll site with the GitBook style.
 
@@ -10,11 +10,11 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://rimi3226.github.io'
-baseurl:          '/jekyll-gitbook'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: rimi3226/jekyll-gitbook
 
 toc:
   enabled: true
